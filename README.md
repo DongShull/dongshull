@@ -1,66 +1,50 @@
-# 👋 Hi there! I'm [Your Name]
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:90F7EC,100:32CCBC&height=200&section=header&text=DongShu%20%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%20AI%E5%BC%95%E9%A2%86%E5%BC%80%E5%8F%91" alt="header banner" />
+</p>
 
-[![GitHub followers](https://img.shields.io/github/followers/dongshull?style=social)](https://github.com/dongshull)
-[![GitHub stars](https://img.shields.io/github/stars/dongshull?style=social)](https://github.com/dongshull)
+<div align="center">
 
-## 🚀 About Me
+<h2> 👋 Hi, I'm DongShu | AI 开发“小白” </h2>
+💡 Copilot、Claude AI 带我快速成长！  
+<br>
+<img src="https://img.shields.io/badge/%E5%BC%80%E5%8F%91%E5%B0%8F%E7%99%BD-newbie-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/AI_Buddy-Claude_AI-62E3D2?logo=anthropic&logoColor=fff&style=flat-square" />
+<img src="https://img.shields.io/badge/Copilot-00B4D8?logo=github&logoColor=fff&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=dongshull&style=flat-square&color=00B4D8" />
 
-👋 欢迎来到我的GitHub主页！我是一名[您的职业/身份]，热衷于[您的技术兴趣]。
+</div>
 
-- 🔭 目前正在学习/工作于：[您的当前项目/工作]
-- 🌱 正在学习：[您正在学习的技术]
-- 💬 欢迎交流：[您擅长的技术领域]
-- 📫 联系方式：[您的联系方式]
-- ⚡ 有趣的事实：[个人有趣的信息]
+---
 
-## 🛠️ 技术栈
+### 💡 关于我
+- 👶 我是 DongShu，一位 **开发小白**，用 AI 助理（Claude、Copilot、ChatGPT 等）陪伴启蒙编程。
+- 🤖 开发理念：“人不会，AI来凑”——靠提问+理解+模仿搞定项目第一步。
+- 🐣 热衷用最通俗方式探索代码世界，体验 AI 驱动的现代开发。
 
-### 编程语言
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+---
 
-### 前端技术
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+### 🧰 我的技术 / AI 伙伴
 
-### 后端技术
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Markdown-000?logo=markdown&style=flat-square" />
+  <img src="https://img.shields.io/badge/Claude-FFBE4C?logo=anthropic&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-00B4D8?logo=github&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/ChatGPT-19C37D?logo=openai&logoColor=white&style=flat-square" />
+</p>
 
-### 数据库
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+---
 
-### 工具 & 平台
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+### 📊 GitHub 统计
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dongshull&show_icons=true&theme=vue-dark&hide_rank=false&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongshull&layout=compact&theme=vue-dark" height="160"/>
+</div>
 
-## 📊 GitHub 统计
+---
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dongshull&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongshull&layout=compact&theme=radical)
-
-## 🏆 GitHub 奖杯
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dongshull)](https://github.com/dongshull)
-
-## 📈 活跃度统计
-
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dongshull&theme=github)](https://github.com/dongshull)
-
-## 📫 联系我
-
-- 邮箱：[您的邮箱]
-- 博客：[您的博客链接]
-- LinkedIn：[您的LinkedIn链接]
-- Twitter：[您的Twitter链接]
-
-## ❤️ 感谢访问
-
-感谢您花时间查看我的个人资料！如果您觉得我的项目有用，请给我一个⭐Star！
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=dongshull&style=flat-square)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:32CCBC,100:90F7EC&height=120&section=footer"/>
+  <br>
+  <b>新手的每一步进步，都是AI陪伴的见证！🌱</b>
+</p>
